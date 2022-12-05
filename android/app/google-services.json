@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91642602273",
+    "project_id": "kustsmartbus",
+    "storage_bucket": "kustsmartbus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91642602273:android:c2f6fab276ba94f42e9460",
+        "android_client_info": {
+          "package_name": "com.example.smart_bus_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91642602273-7otf8gcgm4884qamvpefm89upanna8re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-plIx63pXEoqiZyJbHlgb0peBlHqieM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91642602273-7otf8gcgm4884qamvpefm89upanna8re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
